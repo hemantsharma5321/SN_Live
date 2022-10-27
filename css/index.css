@@ -1,0 +1,12 @@
+.main-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.cen-text {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}/*# sourceMappingURL=index.css.map */

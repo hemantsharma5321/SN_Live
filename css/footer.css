@@ -1,0 +1,17 @@
+.footer {
+  width: 100vw;
+  padding: 10px;
+  background-color: rgb(15, 15, 15);
+  color: aliceblue;
+}
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+.footer ul {
+  list-style-type: none;
+}
+.footer ul li {
+  display: inline;
+  padding: 5px;
+}/*# sourceMappingURL=footer.css.map */

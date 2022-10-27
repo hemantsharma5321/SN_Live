@@ -1,0 +1,11 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+  align-items: center;
+  background-color: rgb(170, 169, 166);
+  justify-content: start;
+}
+.sidebar h1 {
+  color: red;
+}/*# sourceMappingURL=sidebar.css.map */

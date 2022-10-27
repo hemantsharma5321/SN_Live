@@ -27,6 +27,6 @@ include("./includes/config.php");
     
     <footer>
         <?php include("./includes/footer.php") ?>
-    </footer>
+    </footer> 
 </body>
 </html>
